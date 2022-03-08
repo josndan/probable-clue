@@ -1,4 +1,4 @@
-This project implements a text adventure game for Clue using C.
+Implementation Details of commandline based Clue game using C.
 
 Demo: https://youtu.be/EBThHjEBmEs
 
